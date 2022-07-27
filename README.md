@@ -22,10 +22,11 @@ The School Board has requested student data related to the 9th grade of Thomas H
 ## Results
 
 ### District Summary
-![Original_District_Summary](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_District_Summary.png)!
+![Original_District_Summary]!(https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_District_Summary.png)
 
-![Adj_District_Summary](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_District_Summary.png)!
+![Adj_District_Summary]!(https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_District_Summary.png)
 
+The district summary 
 ### School Summary
 ![Original_School_Summary](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_School_Summary.png)!
 
