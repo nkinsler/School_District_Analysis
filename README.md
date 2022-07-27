@@ -49,7 +49,7 @@ The impact of the school summary with the adjustment of the Thomas High School 9
 ##### Adjusted Top 5
 ![Adj_Top5](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Top5.png)!
 ##### Adjusted Top 5 Including 9th Grade
-![Adj_Top5_With9th]https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Top5_With9th.png)!
+![Adj_Top5_With9th](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Top5_With9th.png)!
 
 ##### Original Bottom 5
 ![Original_Bottom5](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Bottom5.png)!
