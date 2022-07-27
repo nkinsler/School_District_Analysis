@@ -60,7 +60,7 @@ The impact of the school summary with the adjustment of the Thomas High School 9
 
 Based on the results of the top 5 performing schools before and after the adjustment, nothing significant changed with Thomas High School as compared to the other schools.  Thomas High School still remains as second best overall performing school.
 
-Comparing the school information includisze of the 9th grade indicates a significant difference.
+Comparing the school information includisze of the 9th grade indicates a significant difference.  Thomas High School is no longer included in the top 5 schools for over passing percentage.  As seen with the school summary above, the overall passing rate of 65.08% would not be considered a top performing school.  At the same time, this is not considered the bottom 5 performing school either.
 
 ### Impact of replacing 9th grade scores
 
@@ -110,7 +110,7 @@ The impact of the adjustment is limited to charter school types.  Both the avera
 Overall the most noticed changes to the school district analysis after reading and math scores for the ninth grade at Thomas High School was replaced is as follows:
 1. District wide, a minimal (less than 1%) decrease in math, reading, and overall passing percentages.
 2. In comparing schools, Thomas High saw a significant increase in math, reading, and overall passing percentages with the adjustment.
-3. Thomas High School still remained ranked the second highest performing school.
+3. Thomas High School still remained ranked the second highest performing school.  This assessment is different when consider the orginal passing rate percentage inclusive of the 9th grade.  With the 9th grade of Thomas High, the school is no longer  atop 5 performing school.
 4. Minimal impact to scores when grouped by spending, size, and type.  Removing an entire grade from one school doesn't seem to impact the district overall.
 
 
