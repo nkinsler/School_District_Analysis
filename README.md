@@ -29,13 +29,16 @@ The School Board has requested student data related to the 9th grade of Thomas H
 ##### Adjusted
 ![Adj_District_Summary](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_District_Summary.png)
 
-The district summary 
+The impact of the district summary with the adjustment of the Thomas Hgh School 9th grade scores removed is minimal.  The average math score dropped 0.1 and average reading score remained the same.  The passing percentage of math decreased by 0.22% while passing percetnage of reading decreased 0.15%.
+
 ### School Summary
 
 ##### Original
 ![Original_School_Summary](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_School_Summary.png)!
 ##### Adjusted
 ![Adj_School_Summary](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_School_Summary.png)!
+
+The impact of the school summary with the adjustment of the Thomas Hgh School 9th grade scores removed is also minimal as it relates to average math and reading scores.  The average math and reading scores remained unchanged.  The passing rates were impacted by the adjustment.  Passing math percetnage increased 26.274375% while passing reading percentage increased 27.35513%.  Overall passing percentage increased 25.553781%.
 
 ### Thomas High School performance relative to other schools (post replacement)
 
