@@ -75,25 +75,25 @@ The only impact to the math and reading scores by grade is the removal of Thomas
 #### Scores by school spending
 
 ##### Original
-![Original_Schools_by_Spending](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Scores_by_Spending.png)!
+![Original_Schools_by_Spending](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Scores_by_School_Spending.png)!
 ##### Adjusted
-![Adj_Schools_by_Spending](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Scores_by_Spending.png)!
+![Adj_Schools_by_Spending](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Scores_by_School_Spending.png)!
 
 
 
 #### Scores by school size
 
 ##### Original
-![Original_Schools_by_Size](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Scores_by_School_Size.png)!
+![Original_Schools_by_Size](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Scores_by_School_Size2.png)!
 ##### Adjusted
-![Adj_Schools_by_Size](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Scores_by_Size.png)!
+![Adj_Schools_by_Size](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Scores_by_School_Size.png)!
 
 #### Scores by school type
 
 ##### Original
-![Original_Schools_by_Type](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Scores_by_Type.png)!
+![Original_Schools_by_Type](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Scores_by_School_Type.png)!
 ##### Adjusted
-![Adj_Schools_by_Type](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Scores_by_Type.png)!
+![Adj_Schools_by_Type](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Scores_by_School_Type.png)!
 
 ## Summary
 
