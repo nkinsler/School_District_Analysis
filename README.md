@@ -54,19 +54,23 @@ The impact of the school summary with the adjustment of the Thomas Hgh School 9t
 ##### Adjusted
 ![Adj_Bottom5](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Bottom5.png)!
 
+Based on the results of the top 5 performaning schools before and after the adjustment, nothing significant changed with Thomas High School as compared to the other schools.  Thomas High School still remains as second best overall performing school.
+
 ### Impact of replacing 9th grade scores
 
 #### Math and reading scores by grade
 
-##### Original
+##### Original Math Scores
 ![Original_Math_Grades](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Math_Grades.png)!
-##### Adjusted
+##### Adjusted Math Scores
 ![Adj_Math_Grades](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Math_Grades.png)!
 
-##### Original
+##### Original Reading Scores
 ![Original_Reading_Grades](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Reading_Scores.png)!
-##### Adjusted
+##### Adjusted Reading Scores
 ![Adj_Reading_Grades](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Reading_Scores.png)!
+
+The only impact to the math and reading scores by grade is the removal of Thomas High School's Math and Reading scores to say nan.
 
 #### Scores by school spending
 
@@ -74,6 +78,8 @@ The impact of the school summary with the adjustment of the Thomas Hgh School 9t
 ![Original_Schools_by_Spending](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Scores_by_Spending.png)!
 ##### Adjusted
 ![Adj_Schools_by_Spending](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Scores_by_Spending.png)!
+
+
 
 #### Scores by school size
 
