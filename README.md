@@ -22,51 +22,68 @@ The School Board has requested student data related to the 9th grade of Thomas H
 ## Results
 
 ### District Summary
+
+##### Original
 ![Original_District_Summary](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_District_Summary.png)
 
+##### Adjusted
 ![Adj_District_Summary](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_District_Summary.png)
 
 The district summary 
 ### School Summary
-![Original_School_Summary](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_School_Summary.png)!
 
+##### Original
+![Original_School_Summary](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_School_Summary.png)!
+##### Adjusted
 ![Adj_School_Summary](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_School_Summary.png)!
 
 ### Thomas High School performance relative to other schools (post replacement)
 
 #### Top/Bottom 5 Performing Schools
-![Original_Top5](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Top5.png)!
 
+##### Original
+![Original_Top5](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Top5.png)!
+##### Adjusted
 ![Adj_Top5](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Top5.png)!
 
+##### Original
 ![Original_Bottom5](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Bottom5.png)!
-
+##### Adjusted
 ![Adj_Bottom5](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Bottom5.png)!
 
 ### Impact of replacing 9th grade scores
 
 #### Math and reading scores by grade
-![Original_Math_Grades](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Math_Grades.png)!
 
+##### Original
+![Original_Math_Grades](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Math_Grades.png)!
+##### Adjusted
 ![Adj_Math_Grades](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Math_Grades.png)!
 
+##### Original
 ![Original_Reading_Grades](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Reading_Scores.png)!
-
+##### Adjusted
 ![Adj_Reading_Grades](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Reading_Scores.png)!
 
 #### Scores by school spending
-![Original_Schools_by_Spending](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Scores_by_Spending.png)!
 
+##### Original
+![Original_Schools_by_Spending](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Scores_by_Spending.png)!
+##### Adjusted
 ![Adj_Schools_by_Spending](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Scores_by_Spending.png)!
 
 #### Scores by school size
-![Original_Schools_by_Size](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Scores_by_School_Size.png)!
 
+##### Original
+![Original_Schools_by_Size](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Scores_by_School_Size.png)!
+##### Adjusted
 ![Adj_Schools_by_Size](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Scores_by_Size.png)!
 
 #### Scores by school type
-![Original_Schools_by_Type](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Scores_by_Type.png)!
 
+##### Original
+![Original_Schools_by_Type](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Scores_by_Type.png)!
+##### Adjusted
 ![Adj_Schools_by_Type](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Scores_by_Type.png)!
 
 ## Summary
