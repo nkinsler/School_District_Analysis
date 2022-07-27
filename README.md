@@ -48,13 +48,19 @@ The impact of the school summary with the adjustment of the Thomas High School 9
 ![Original_Top5](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Top5.png)!
 ##### Adjusted Top 5
 ![Adj_Top5](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Top5.png)!
+##### Adjusted Top 5 Including 9th Grade
+![Adj_Top5_With9th]https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Top5_With9th.png)!
 
 ##### Original Bottom 5
 ![Original_Bottom5](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Original_Bottom5.png)!
 ##### Adjusted Bottom 5
 ![Adj_Bottom5](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Bottom5.png)!
+##### Adjusted Bottom 5 Including 9th Grade
+![Adj_Bottom5_with9th](https://github.com/nkinsler/School_District_Analysis/blob/main/Analysis/Adj_Bottom5_With9th.png)!
 
 Based on the results of the top 5 performing schools before and after the adjustment, nothing significant changed with Thomas High School as compared to the other schools.  Thomas High School still remains as second best overall performing school.
+
+Comparing the school information includisze of the 9th grade indicates a significant difference.
 
 ### Impact of replacing 9th grade scores
 
